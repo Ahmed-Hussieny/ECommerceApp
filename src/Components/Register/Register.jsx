@@ -34,7 +34,7 @@ export default function Register() {
 
   // ************validation using YUP
   let passerr= `Must meet the following criteria:
-  - Start with a letter (either uppercase or lowercase).
+  - Start with a letter and (@) (either uppercase or lowercase).
   - Be between 6 and 9 characters in total.
   - Can only contain letters (A-Z or a-z) and numbers (0-9).`
   let validationSchema = YUP.object({
