@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ECommerceApp/static/css/main.9c3a013c.css",
+    "main.js": "/ECommerceApp/static/js/main.250f164a.js",
+    "static/media/fa-solid-900.ttf": "/ECommerceApp/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/slider-image-1.jpeg": "/ECommerceApp/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/ECommerceApp/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/slider-image-3.jpeg": "/ECommerceApp/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/ECommerceApp/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/ECommerceApp/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/ECommerceApp/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/error.svg": "/ECommerceApp/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/ECommerceApp/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/1680403266739-cover.jpeg": "/ECommerceApp/static/media/1680403266739-cover.f74386798f8ed65922ff.jpeg",
+    "static/media/fa-regular-400.woff2": "/ECommerceApp/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/freshcart-logo.svg": "/ECommerceApp/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/ECommerceApp/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/ECommerceApp/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/ECommerceApp/index.html",
+    "main.9c3a013c.css.map": "/ECommerceApp/static/css/main.9c3a013c.css.map",
+    "main.250f164a.js.map": "/ECommerceApp/static/js/main.250f164a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3a013c.css",
+    "static/js/main.250f164a.js"
+  ]
+}
